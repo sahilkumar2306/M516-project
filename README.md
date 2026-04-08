@@ -1,0 +1,1 @@
+This project is a Streamlit web app that analyzes social media posts about Generative AI. Users can upload CSV files or enter new text to predict sentiment (positive, negative, neutral) and visualize results using charts and word clouds.
